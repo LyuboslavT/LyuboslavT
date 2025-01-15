@@ -13,6 +13,7 @@ You can click the Preview link to take a look at your changes.
   <a href="mailto:tsvetkovski.lyuboslav@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+---
 
 
 
@@ -20,17 +21,6 @@ You can click the Preview link to take a look at your changes.
 - 🏡 **Location:** Sofia, Bulgaria  
 - 💼 **Job:** SharePoint Engineer @ Microsoft  
 - 📧 **Email:** <tevetkovski.lyuboslav@gmail.com> 
-
----
-
-### 🏆 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LyuboslavT&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LyuboslavT&theme=tokyonight" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyuboslavT&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
@@ -42,6 +32,17 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+
+
+### 🏆 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LyuboslavT&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LyuboslavT&theme=tokyonight" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyuboslavT&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
