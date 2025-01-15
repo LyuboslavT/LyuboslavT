@@ -3,12 +3,17 @@ LyuboslavT/LyuboslavT is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi there, I'm Lyuboslav Tsvetkovski! 👋</h1>
-
 <p align="center">
-  🚀 Want to be a Developer | 💡 Tech Enthusiast | 🎯 Problem Solver
+  🚀 Want to be a Developer|💡 Tech Enthusiast|🎯 Problem Solver
 </p>
 
----
+<p align="center">
+  <a href="https://linkedin.com/in/lyuboslav-tsvetkovski-94a536177/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tsvetkovski.lyuboslav@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+
+
 
 ### 🌍 About Me  
 - 🏡 **Location:** Sofia, Bulgaria  
@@ -45,16 +50,7 @@ You can click the Preview link to take a look at your changes.
 - 🎵 I love coding while listening to chilly spiritual music.
 - ☕ Coffee keeps me alive!  
 - 🎮 I enjoy playing FC25.
-- 🌍 Always planning my next adventure!  
- 
-
----
-
-### 📫 Connect With Me  
-<p align="center">
-  <a href="https://linkedin.com/in/lyuboslav-tsvetkovski-94a536177/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tsvetkovski.lyuboslav@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+- 🌍 Always planning my next adventure! 
 
 ---
 
