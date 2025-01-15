@@ -2,7 +2,7 @@
 LyuboslavT/LyuboslavT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi there, I'm <Lyuboslav Tsvetkovski>! 👋</h1>
+<h1 align="center">Hi there, I'm Lyuboslav Tsvetkovski! 👋</h1>
 
 <p align="center">
   🚀 Want to be a Developer | 💡 Tech Enthusiast | 🎯 Problem Solver
