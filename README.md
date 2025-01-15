@@ -1,16 +1,8 @@
-- 👋 Hi, I’m @LyuboslavT
-- 👀 I’m interested in Tech
-- 🌱 I’m currently learning Python Technology
-- 💞️ I’m looking to collaborate on SDLS projects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 <!---
 LyuboslavT/LyuboslavT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi there, I'm <Your Name>! 👋</h1>
+<h1 align="center">Hi there, I'm <Lyuboslav Tsvetkovski>! 👋</h1>
 
 <p align="center">
   🚀 Want to be a Developer | 💡 Tech Enthusiast | 🎯 Problem Solver
@@ -19,10 +11,10 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### 🌍 About Me  
-- 🏡 **Location:** <Sofia, Bulgaria>  
-- 💼 **Job:** <SharePoint Engineer> @ <Microsoft>  
+- 🏡 **Location:** Sofia, Bulgaria  
+- 💼 **Job:** SharePoint Engineer @ Microsoft  
 - 📧 **Email:** <tevetkovski.lyuboslav@gmail.com>  
-- 📱 **Phone:** <+359888883505>  
+- 📱 **Phone:** +359888883505
 
 ---
 
@@ -45,15 +37,14 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
 ### 🎉 Fun Facts  
-- 🎵 I love coding while listening to **<Techno>**  
+- 🎵 I love coding while listening to chilly spiritual music.
 - ☕ Coffee keeps me alive!  
-- 🎮 I enjoy playing **<FC25>**  
+- 🎮 I enjoy playing FC25.
 - 🌍 Always planning my next adventure!  
  
 
@@ -61,9 +52,8 @@ You can click the Preview link to take a look at your changes.
 
 ### 📫 Connect With Me  
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR_PROFILE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/lyuboslav-tsvetkovski-94a536177/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tsvetkovski.lyuboslav@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
