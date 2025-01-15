@@ -19,8 +19,7 @@ You can click the Preview link to take a look at your changes.
 ### 🌍 About Me  
 - 🏡 **Location:** Sofia, Bulgaria  
 - 💼 **Job:** SharePoint Engineer @ Microsoft  
-- 📧 **Email:** <tevetkovski.lyuboslav@gmail.com>  
-- 📱 **Phone:** +359888883505
+- 📧 **Email:** <tevetkovski.lyuboslav@gmail.com> 
 
 ---
 
